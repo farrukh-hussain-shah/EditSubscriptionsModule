@@ -18,17 +18,6 @@ class BottomAmount :
         super.onViewCreated(view, savedInstanceState)
 
         binding.topBar.tvCenter.text = "Amount"
-
-        binding.etSearch.requestFocus()
-        binding.etSearch.post {
-            val imm = requireContext().getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
-            imm.showSoftInput(binding.etSearch, InputMethodManager.SHOW_IMPLICIT)
-        }
-        val imm = requireContext().getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
-        imm.showSoftInput(binding.etSearch, InputMethodManager.SHOW_IMPLICIT)
-
-        dialog?.window?.setSoftInputMode(android.view.WindowManager.LayoutParams.SOFT_INPUT_ADJUST_RESIZE)
-
         binding.topBar.tvEnd.setOnClickListener {
             val text = binding.etSearch.text
             if (text?.isNotEmpty() == true) {
