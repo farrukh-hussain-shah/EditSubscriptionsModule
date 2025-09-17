@@ -26,6 +26,7 @@ class BottomAmount :
             }
         }
 
+
         binding.etSearch.setOnEditorActionListener { v, actionId, event ->
             val input = binding.etSearch.text.toString()
             if (input.isNotEmpty()) {
