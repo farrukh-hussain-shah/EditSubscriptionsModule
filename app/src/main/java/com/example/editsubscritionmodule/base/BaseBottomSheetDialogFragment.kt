@@ -40,6 +40,8 @@ abstract class BaseBottomSheetDialogFragment<VB : ViewBinding>(
         _binding = bindingInflater(inflater, container, false)
         return binding.root
     }
+    fun Int.dpToPx(): Int =
+        (this * resources.displayMetrics.density).toInt()
 
     override fun onDestroyView() {
         super.onDestroyView()

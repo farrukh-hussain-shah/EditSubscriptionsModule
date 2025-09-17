@@ -1,8 +1,10 @@
 package com.example.editsubscritionmodule.bottomsheets
 
 import android.content.Context
+import android.graphics.Rect
 import android.os.Bundle
 import android.view.View
+import android.view.ViewTreeObserver
 import android.view.inputmethod.InputMethodManager
 import androidx.core.widget.doOnTextChanged
 import com.example.editsubscritionmodule.base.BaseBottomSheetDialogFragment
@@ -18,6 +20,43 @@ class BottomAmount :
         super.onViewCreated(view, savedInstanceState)
 
         binding.topBar.tvCenter.text = "Amount"
+        binding.main.viewTreeObserver.addOnGlobalLayoutListener(
+            object : ViewTreeObserver.OnGlobalLayoutListener {
+                private val defaultPadding = 90.dpToPx() // default padding
+                private val keyboardPadding = 20.dpToPx() // padding when keyboard is open
+
+                override fun onGlobalLayout() {
+                    val rect = Rect()
+                    binding.main.getWindowVisibleDisplayFrame(rect)
+                    val screenHeight = binding.main.rootView.height
+                    val keyboardHeight = screenHeight - rect.bottom
+
+                    if (keyboardHeight > screenHeight * 0.15) { // keyboard is probably open
+                        binding.main.setPadding(
+                            binding.main.paddingLeft,
+                            binding.main.paddingTop,
+                            binding.main.paddingRight,
+                            keyboardPadding
+                        )
+                    } else {
+                        binding.main.setPadding(
+                            binding.main.paddingLeft,
+                            binding.main.paddingTop,
+                            binding.main.paddingRight,
+                            defaultPadding
+                        )
+                    }
+                }
+            })
+        binding.etSearch.post {
+            val imm = requireContext().getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
+            imm.showSoftInput(binding.etSearch, InputMethodManager.SHOW_IMPLICIT)
+        }
+        val imm = requireContext().getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
+        imm.showSoftInput(binding.etSearch, InputMethodManager.SHOW_IMPLICIT)
+
+        dialog?.window?.setSoftInputMode(android.view.WindowManager.LayoutParams.SOFT_INPUT_ADJUST_RESIZE)
+
         binding.topBar.tvEnd.setOnClickListener {
             val text = binding.etSearch.text
             if (text?.isNotEmpty() == true) {
@@ -25,7 +64,6 @@ class BottomAmount :
                 dismiss()
             }
         }
-
 
         binding.etSearch.setOnEditorActionListener { v, actionId, event ->
             val input = binding.etSearch.text.toString()
