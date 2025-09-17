@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:paddingBottom="@dimen/_10sdp"
+    android:paddingBottom="@dimen/_15sdp"
     android:background="@drawable/top_corner">
 
     <include
@@ -21,6 +21,8 @@
         android:drawablePadding="10dp"
         android:imeOptions="actionDone"
         android:inputType="number"
+        android:maxLines="1"
+        android:maxLength="5"
         android:digits="0123456789."
         android:paddingHorizontal="@dimen/_10sdp"
         android:text="50"

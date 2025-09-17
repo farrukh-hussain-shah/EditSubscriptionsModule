@@ -25,7 +25,7 @@ class AppAdapter : BaseAdapter<AppData, ItemAppSelectBinding>(ItemAppSelectBindi
         }
 
         binding.ivEnd.isVisible = position == selectedPosition
-
+        binding.view.isVisible = position != items.size - 1
         binding.main.setOnClickListener {
             if (selectedPosition != position) {
                 val oldPos = selectedPosition

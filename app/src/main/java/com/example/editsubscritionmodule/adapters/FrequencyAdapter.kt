@@ -22,6 +22,7 @@ class FrequencyAdapter : BaseAdapter<AppData, ItemFreequencySelectBinding>(ItemF
         }
 
         binding.ivEnd.isVisible = position == selectedPosition
+        binding.view.isVisible = position != items.size - 1
 
         binding.root.setOnClickListener {
             if (selectedPosition != position) {

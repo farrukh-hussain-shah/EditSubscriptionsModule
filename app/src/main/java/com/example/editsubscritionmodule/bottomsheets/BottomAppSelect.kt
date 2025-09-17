@@ -2,6 +2,7 @@ package com.example.editsubscritionmodule.bottomsheets
 
 import android.os.Bundle
 import android.view.View
+import androidx.core.widget.doOnTextChanged
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.editsubscritionmodule.R
 import com.example.editsubscritionmodule.adapters.AppAdapter
@@ -35,6 +36,11 @@ class BottomAppSelect :
 
         adapter.onClick = { app ->
             appData = app
+        }
+        binding.recyclerView.minimumHeight = 500
+        binding.etSearch.doOnTextChanged { text,a,b,c ->
+            val query = text.toString()
+            adapter.filter { it is AppData && it.name.contains(query, ignoreCase = true) }
         }
 
         binding.topBar.tvEnd.setOnClickListener {

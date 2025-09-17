@@ -10,10 +10,10 @@ abstract class BaseAdapter<T, VB : ViewBinding>(
 ) : RecyclerView.Adapter<BaseAdapter<T, VB>.BaseViewHolder>() {
 
     protected val items = mutableListOf<T>()
+    private var originalItems = listOf<T>() // full list for filtering
 
     // 🔹 Click listener
     private var onItemClick: ((T, Int) -> Unit)? = null
-
     fun setOnItemClickListener(listener: (T, Int) -> Unit) {
         onItemClick = listener
     }
@@ -23,11 +23,6 @@ abstract class BaseAdapter<T, VB : ViewBinding>(
             val pos = adapterPosition
             if (pos != RecyclerView.NO_POSITION) {
                 bind(binding, item, pos)
-
-                // Attach click
-//                binding.root.setOnClickListener {
-//                    onItemClick?.invoke(item, pos)
-//                }
             }
         }
     }
@@ -43,9 +38,19 @@ abstract class BaseAdapter<T, VB : ViewBinding>(
 
     override fun getItemCount(): Int = items.size
 
+    // 🔹 Set items and keep a copy for filtering
     fun setItems(newItems: List<T>) {
+        originalItems = newItems
         items.clear()
         items.addAll(newItems)
+        notifyDataSetChanged()
+    }
+
+    // 🔹 Add a filter method
+    fun filter(predicate: (T) -> Boolean) {
+        val filtered = if (originalItems.isEmpty()) items else originalItems.filter(predicate)
+        items.clear()
+        items.addAll(filtered)
         notifyDataSetChanged()
     }
 
