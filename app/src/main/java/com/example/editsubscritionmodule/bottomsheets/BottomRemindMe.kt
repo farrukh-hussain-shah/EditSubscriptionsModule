@@ -20,7 +20,7 @@ class BottomRemindMe :
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        // sample list
+        binding.topBar.tvCenter.text = "Remind Me"
         val listOfData = listOf(
             AppData(R.drawable.subsrciption, "2 days before", isChecked = true),
             AppData(R.drawable.utility, "7 days before"),

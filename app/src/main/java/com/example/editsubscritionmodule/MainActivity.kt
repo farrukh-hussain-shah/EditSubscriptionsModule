@@ -30,7 +30,7 @@ class MainActivity : BaseActivity<ActivityMainBinding>(ActivityMainBinding::infl
         }
 
         remindMeBottomSheet.onClick = {
-            binding.tvRemindsMeValue.text = "$ ${it.name}"
+            binding.tvRemindsMeValue.text = "${it.name}"
             remindMeBottomSheet.dismiss()
         }
 

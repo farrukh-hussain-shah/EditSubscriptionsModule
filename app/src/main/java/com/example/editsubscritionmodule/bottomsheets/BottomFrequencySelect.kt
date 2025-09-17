@@ -20,7 +20,7 @@ class BottomFrequencySelect :
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        // sample list
+        binding.topBar.tvCenter.text = "Frequency"
         val listOfData = listOf(
             AppData(R.drawable.subsrciption, "Weekly",isChecked = true),
             AppData(R.drawable.utility, "Monthly"),
