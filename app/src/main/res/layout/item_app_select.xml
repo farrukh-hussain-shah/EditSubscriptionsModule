@@ -5,6 +5,7 @@
     android:id="@+id/main"
     android:clickable="true"
     android:focusable="true"
+    android:paddingTop="@dimen/_2sdp"
     android:layout_height="wrap_content"
     android:paddingHorizontal="@dimen/_10sdp">
 

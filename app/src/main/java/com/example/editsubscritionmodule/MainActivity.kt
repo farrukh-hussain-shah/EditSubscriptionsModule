@@ -25,8 +25,8 @@ class MainActivity : BaseActivity<ActivityMainBinding>(ActivityMainBinding::infl
 
         // Handle callbacks
         priceBottomSheet.onClick = {
-            binding.tvAmountValue.text = "$ $it.0"
-            binding.tvPrice.text = "$ $it.0"
+            binding.tvAmountValue.text = "$ ${it}0"
+            binding.tvPrice.text = "$ ${it}0"
             priceBottomSheet.dismiss()
         }
 
