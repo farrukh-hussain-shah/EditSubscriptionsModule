@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_round_background.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\round_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_top_corner.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\top_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\layout_bottom_amount.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\bottom_amount.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_round_border.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\round_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_ic_netflix.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\ic_netflix.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_unfold_more.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\unfold_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\font_gc_medium.otf.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\font\\gc_medium.otf"
+    },
+    {
+        "merged": "com.example.editsubscritionmodule.app-debug-38:/drawable_credit_card.png.flat",
+        "source": "com.example.editsubscritionmodule.app-main-40:/drawable/credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_newyorktimes.png.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\newyorktimes.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_wsj.png.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\wsj.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\layout_item_app_select.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\item_app_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_round_notch.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\round_notch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\font_gc_regular.otf.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\font\\gc_regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.editsubscritionmodule.app-debug-38:/drawable_home.png.flat",
+        "source": "com.example.editsubscritionmodule.app-main-40:/drawable/home.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_bg_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\bg_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\font_gp_semi_bold.otf.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\font\\gp_semi_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_bg_edittext.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\layout_bottom_top_bar.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\bottom_top_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\layout_bottom_start_date.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\bottom_start_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_ic_dollar.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\ic_dollar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_ic_money.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\ic_money.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_apple.png.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_ic_money_2.png.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\ic_money_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_utility.png.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\utility.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_round_border15.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\round_border15.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_bg_top_bar.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\bg_top_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_hulu.png.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\hulu.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_check_circle.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\check_circle.xml"
+    },
+    {
+        "merged": "com.example.editsubscritionmodule.app-debug-38:/drawable_repeat.png.flat",
+        "source": "com.example.editsubscritionmodule.app-main-40:/drawable/repeat.png"
+    },
+    {
+        "merged": "com.example.editsubscritionmodule.app-debug-38:/layout_bottom_amount.xml.flat",
+        "source": "com.example.editsubscritionmodule.app-main-40:/layout/bottom_amount.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_spotify.png.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\spotify.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\layout_item_freequency_select.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\item_freequency_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.editsubscritionmodule.app-debug-38:/drawable_setting.png.flat",
+        "source": "com.example.editsubscritionmodule.app-main-40:/drawable/setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_card.png.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\card.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_subsrciption.png.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\subsrciption.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\layout_bottom_app_select.xml.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\bottom_app_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_amazon.png.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\amazon.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\drawable_rent.png.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\drawable\\rent.png"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-debug-38:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]

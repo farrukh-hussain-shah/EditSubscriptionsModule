@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-mergeDebugResources-37:\\layout\\bottom_top_bar.xml",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\bottom_top_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-mergeDebugResources-37:\\layout\\item_app_select.xml",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\item_app_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-mergeDebugResources-37:\\layout\\bottom_app_select.xml",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\bottom_app_select.xml"
+    },
+    {
+        "merged": "com.example.editsubscritionmodule.app-mergeDebugResources-37:/layout/bottom_amount.xml",
+        "source": "com.example.editsubscritionmodule.app-main-40:/layout/bottom_amount.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-mergeDebugResources-37:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-mergeDebugResources-37:\\layout\\bottom_amount.xml",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\bottom_amount.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-mergeDebugResources-37:\\layout\\bottom_start_date.xml",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\bottom_start_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-mergeDebugResources-37:\\layout\\item_freequency_select.xml",
+        "source": "C:\\Users\\Public.DESKTOP-F9GJTDD\\.gradle\\daemon\\8.13\\com.example.editsubscritionmodule.app-main-40:\\layout\\item_freequency_select.xml"
+    }
+]
