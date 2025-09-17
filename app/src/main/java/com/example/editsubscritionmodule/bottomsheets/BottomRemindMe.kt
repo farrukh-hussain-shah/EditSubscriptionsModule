@@ -21,6 +21,9 @@ class BottomRemindMe :
         super.onViewCreated(view, savedInstanceState)
 
         binding.topBar.tvCenter.text = "Remind Me"
+        binding.topBar.tvEnd.setOnClickListener {
+            dismiss()
+        }
         val listOfData = listOf(
             AppData(R.drawable.subsrciption, "2 days before", isChecked = true),
             AppData(R.drawable.utility, "7 days before"),

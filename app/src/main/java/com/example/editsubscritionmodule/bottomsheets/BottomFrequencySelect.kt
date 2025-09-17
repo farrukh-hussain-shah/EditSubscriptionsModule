@@ -21,6 +21,10 @@ class BottomFrequencySelect :
         super.onViewCreated(view, savedInstanceState)
 
         binding.topBar.tvCenter.text = "Frequency"
+        binding.topBar.tvEnd.setOnClickListener {
+            dismiss()
+        }
+
         val listOfData = listOf(
             AppData(R.drawable.subsrciption, "Weekly",isChecked = true),
             AppData(R.drawable.utility, "Monthly"),

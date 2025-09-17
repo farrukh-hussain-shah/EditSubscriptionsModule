@@ -17,7 +17,9 @@ class BottomStartDateSelect :
         super.onViewCreated(view, savedInstanceState)
 
         binding.topBar.tvCenter.text = "Start Date"
-
+        binding.topBar.tvEnd.setOnClickListener {
+            dismiss()
+        }
         // calendar selection
         binding.calendarView.setOnDateChangeListener { _, year, month, dayOfMonth ->
             val calendar = Calendar.getInstance().apply {

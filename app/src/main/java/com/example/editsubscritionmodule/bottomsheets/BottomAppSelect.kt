@@ -19,7 +19,9 @@ class BottomAppSelect :
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-
+        binding.topBar.tvEnd.setOnTouchListener {
+            dismiss()
+        }
         val listOfData = listOf(
             AppData(R.drawable.ic_netflix, "Netflix",isChecked = true),
             AppData(R.drawable.amazon, "Amazon"),
